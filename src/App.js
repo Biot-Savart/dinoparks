@@ -93,7 +93,7 @@ function App() {
 
 		if (dino === undefined) {
 			newDinos.dinos.push(n);
-			setDinos(newDinos); 
+			setDinos(newDinos);
 		}			
   }
 

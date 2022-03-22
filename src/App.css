@@ -49,18 +49,22 @@ h2 {
   background-image: url("https://storage.googleapis.com/root-bank/dinoparks/dino-parks-wrench.png");
   background-repeat: no-repeat;
   background-size: 100%;
+  transition: 3s;
 }
 
 .safe {
   background-color: #51B687;
+  transition: 3s;
 }
 
 .unsafe {
   background-color: red;
+  transition: 3s;
 }
 
 .performed {
   background-color: blue;
+  transition: 3s;
 }
 
 .label {
